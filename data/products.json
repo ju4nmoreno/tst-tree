@@ -1,0 +1,36 @@
+{
+	"products": [
+		{
+			"quantity": 717,
+			"price": "$5.532",
+			"available": false,
+			"sublevel_id": 8,
+			"name": "magna",
+			"id": "1ajoo23ej4uxi8tw9nv0sz"
+		},
+		{
+			"quantity": 717,
+			"price": "$5.532",
+			"available": false,
+			"sublevel_id": 8,
+			"name": "magna",
+			"id": "1ajoo23ej4uxi8tw9nv0sz"
+		},
+		{
+			"quantity": 717,
+			"price": "$5.532",
+			"available": false,
+			"sublevel_id": 8,
+			"name": "magna",
+			"id": "1ajoo23ej4uxi8tw9nv0sz"
+		},
+		{
+			"quantity": 717,
+			"price": "$5.532",
+			"available": false,
+			"sublevel_id": 8,
+			"name": "magna",
+			"id": "1ajoo23ej4uxi8tw9nv0sz"
+		}
+	]
+}
